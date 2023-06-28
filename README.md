@@ -6,7 +6,7 @@
   <img width="671" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/21cfcaaa-2984-4ca9-b015-19284231b119">
 <br/>
 
----------------------------
+
 
 ## 게임 동작 원리 분석
 
