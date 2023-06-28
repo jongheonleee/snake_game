@@ -6,6 +6,10 @@
   <img width="671" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/21cfcaaa-2984-4ca9-b015-19284231b119">
 <br/>
 
+---------------------------
+
+## 게임 동작 원리 분석
+
 ### 📌 1. 뱀이 움직이는 원리
 ![image](https://github.com/jongheonleee/snake_game/assets/87258372/90ea4769-f988-44d9-82b0-a1e8446e7dfa)
 위의 사진을 기반으로 설명
