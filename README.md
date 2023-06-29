@@ -50,9 +50,10 @@
 
 
 
-## 🛠 새롭게 배운 클래스들
 
-### Jpanel
+## 🛠 새롭게 배운 클래스 및 인터페이스
+
+### 1. Jpanel
 
 ### 참고 자료
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logNo=220575148557
@@ -63,4 +64,17 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logN
 - 예를 들어서, 밑 바탕이 Jframe이 되고 그 위에 Jpanel 그리고 JLabel, JTextFile ,,, 등 을 통해서 내가 만들고자 하는 애플리케이션의 UI를 손 쉽게 배치할 수 있음
 - 현재 게임에서는 기본적으로 게임 화면의 바탕이 되는 UI를 담달하고 있음
 
+### 2. ActionListener
 
+### 참고 자료
+https://yooniron.tistory.com/13
+https://eating-coding.tistory.com/42
+
+- 위의 블로그 글 설명 기반으로 공부한 내용 정리
+- 사용자가 어떤 값을 입력하는지에 따라 적절한 코드를 수행시켜줌
+- 사용자와 애플리케이션이 소통할 수 있도록 연결해주는 매개체
+- 발생한 이슈에 따른 애플리케이션 실행
+
+### 3. Timer
+
+### 참고자료
