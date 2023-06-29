@@ -32,7 +32,7 @@
 
 
 
-### 📌 2. 사과가 게임판에 랜덤한 위치에 생성하는 원리
+### 📌 2. 사과가 게임판에 랜덤한 위치에 생성되는 원리
 ![image](https://github.com/jongheonleee/snake_game/assets/87258372/15f6cffb-3f6f-4c8a-85fa-842bb520a27a)
 
 위의 사진을 기반으로 설명
