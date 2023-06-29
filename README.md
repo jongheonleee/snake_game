@@ -81,4 +81,7 @@
 
 - 참고자료
   - https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=highkrs&logNo=220283709171
+- 일종의 스레드 클래스
+- 사용자가 사용하기 편리하도록 편의성을 제공
+
 
