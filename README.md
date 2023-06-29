@@ -45,4 +45,4 @@
 - 만약 사과의 크기(유닛 사이즈)보다 작은 값만큼 색을 칠해줄 경우 밑에 사진 처럼 채워짐
 - ![image](https://github.com/jongheonleee/snake_game/assets/87258372/72189ff2-3510-41d3-a1dd-596b7323053d)
 
-### 📝 결론 : newApple() 메서드를 통해서 해당 그리드에서 랜덤하게 (x, y)를 생성하고 fillOvarl(x, y, UNIT_SIZE, UNIT_SIZE)를 통해서 (x, y) 기준으로 유닛 사이즈만큼의 특정 색깔을 채워짐
+### 📝 결론 : newApple() 메서드를 통해서 해당 그리드에서 랜덤하게 (x, y)를 생성하고 fillOval(x, y, UNIT_SIZE, UNIT_SIZE)를 통해서 (x, y) 기준으로 유닛 사이즈만큼의 특정 색깔을 채워짐
