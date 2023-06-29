@@ -79,4 +79,6 @@
 
 ### 3. Timer
 
-### 참고자료
+- 참고자료
+  - https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=highkrs&logNo=220283709171
+
