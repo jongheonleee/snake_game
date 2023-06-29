@@ -57,8 +57,8 @@
 ### 참고 자료
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logNo=220575148557
 
-위의 블로그 글 설명 기반ㅇ로 공부한 내용 정리
-<img width="529" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/1191a2f2-1e8f-48ed-874e-ee59ded1ad0f">
+- 위의 블로그 글 설명 기반ㅇ로 공부한 내용 정리
+- <img width="529" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/1191a2f2-1e8f-48ed-874e-ee59ded1ad0f">
 - 각종 UI를 쉽게 배치할 수 있게끔 도와줌
 - 예를 들어서, 밑 바탕이 Jframe이 되고 그 위에 Jpanel 그리고 JLabel, JTextFile ,,, 등 을 통해서 내가 만들고자 하는 애플리케이션의 UI를 손 쉽게 배치할 수 있음
 - 현재 게임에서는 기본적으로 게임 화면의 바탕이 되는 UI를 담달하고 있음
