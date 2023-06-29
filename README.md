@@ -65,9 +65,9 @@
 
 ### 2. ActionListener
 
-### 참고 자료
-- https://yooniron.tistory.com/13
-- https://eating-coding.tistory.com/42
+- 참고 자료
+-   https://yooniron.tistory.com/13
+-   https://eating-coding.tistory.com/42
 - 위의 블로그 글 설명 기반으로 공부한 내용 정리
 - 사용자가 어떤 값을 입력하는지에 따라 적절한 코드를 수행시켜줌
 - 사용자와 애플리케이션이 소통할 수 있도록 연결해주는 매개체
