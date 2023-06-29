@@ -55,8 +55,9 @@
 
 ### 1. Jpanel
 
-### 참고 자료
-- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logNo=220575148557
+- 참고 자료
+  - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logNo=220575148557
+    
 - 위의 블로그 글 설명 기반으로 공부한 내용 정리
 - <img width="529" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/1191a2f2-1e8f-48ed-874e-ee59ded1ad0f">
 - 각종 UI를 쉽게 배치할 수 있게끔 도와줌
@@ -66,8 +67,9 @@
 ### 2. ActionListener
 
 - 참고 자료
--   https://yooniron.tistory.com/13
--   https://eating-coding.tistory.com/42
+  - https://yooniron.tistory.com/13
+  - https://eating-coding.tistory.com/42
+    
 - 위의 블로그 글 설명 기반으로 공부한 내용 정리
 - 사용자가 어떤 값을 입력하는지에 따라 적절한 코드를 수행시켜줌
 - 사용자와 애플리케이션이 소통할 수 있도록 연결해주는 매개체
