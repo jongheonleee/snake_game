@@ -74,6 +74,8 @@
 - 사용자가 어떤 값을 입력하는지에 따라 적절한 코드를 수행시켜줌
 - 사용자와 애플리케이션이 소통할 수 있도록 연결해주는 매개체
 - 발생한 이슈에 따른 애플리케이션 실행
+- https://github.com/jongheonleee/counter
+- 간단하게 ActionLister, JFrame, JPanel 공부용으로 만들었음
 
 ### 3. Timer
 
