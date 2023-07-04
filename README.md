@@ -32,7 +32,7 @@
 
 
 
-### 📌 2. 사과가 게임판에 랜덤한 위치에 생성하는 원리
+### 📌 2. 사과가 게임판에 랜덤한 위치에 생성되는 원리
 ![image](https://github.com/jongheonleee/snake_game/assets/87258372/15f6cffb-3f6f-4c8a-85fa-842bb520a27a)
 
 위의 사진을 기반으로 설명
@@ -45,4 +45,43 @@
 - 만약 사과의 크기(유닛 사이즈)보다 작은 값만큼 색을 칠해줄 경우 밑에 사진 처럼 채워짐
 - ![image](https://github.com/jongheonleee/snake_game/assets/87258372/72189ff2-3510-41d3-a1dd-596b7323053d)
 
-### 📝 결론 : newApple() 메서드를 통해서 해당 그리드에서 랜덤하게 (x, y)를 생성하고 fillOvarl(x, y, UNIT_SIZE, UNIT_SIZE)를 통해서 (x, y) 기준으로 유닛 사이즈만큼의 특정 색깔을 채워짐
+### 📝 결론 : newApple() 메서드를 통해서 해당 그리드에서 랜덤하게 (x, y)를 생성하고 fillOval(x, y, UNIT_SIZE, UNIT_SIZE)를 통해서 (x, y) 기준으로 유닛 사이즈만큼의 특정 색깔을 채워짐
+
+
+
+
+
+## 🛠 새롭게 배운 클래스 및 인터페이스
+
+### 1. Jpanel
+
+- 참고 자료
+  - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=highkrs&logNo=220575148557
+    
+- 위의 블로그 글 설명 기반으로 공부한 내용 정리
+- <img width="529" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/1191a2f2-1e8f-48ed-874e-ee59ded1ad0f">
+- 각종 UI를 쉽게 배치할 수 있게끔 도와줌
+- 예를 들어서, 밑 바탕이 Jframe이 되고 그 위에 Jpanel 그리고 JLabel, JTextFile ,,, 등 을 통해서 내가 만들고자 하는 애플리케이션의 UI를 손 쉽게 배치할 수 있음
+- 현재 게임에서는 기본적으로 게임 화면의 바탕이 되는 UI를 담달하고 있음
+
+### 2. ActionListener
+
+- 참고 자료
+  - https://yooniron.tistory.com/13
+  - https://eating-coding.tistory.com/42
+    
+- 위의 블로그 글 설명 기반으로 공부한 내용 정리
+- 사용자가 어떤 값을 입력하는지에 따라 적절한 코드를 수행시켜줌
+- 사용자와 애플리케이션이 소통할 수 있도록 연결해주는 매개체
+- 발생한 이슈에 따른 애플리케이션 실행
+- https://github.com/jongheonleee/counter
+- 간단하게 ActionLister, JFrame, JPanel 공부용으로 만들었음
+
+### 3. Timer
+
+- 참고자료
+  - https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=highkrs&logNo=220283709171
+- 일종의 스레드 클래스
+- 사용자가 사용하기 편리하도록 편의성을 제공
+
+
