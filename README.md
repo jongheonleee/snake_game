@@ -6,6 +6,17 @@
   <img width="671" alt="image" src="https://github.com/jongheonleee/snake_game/assets/87258372/21cfcaaa-2984-4ca9-b015-19284231b119">
 <br/>
 
+## 게임 객체 분석
+
+### GameFrame 
+- snake_game의 윈도우 생성(윈도우 초기화)
+<br/>
+### GamePanel
+- 사용자의 입력값(방향키)에 따라 달라지는 게임 이미지를 연속적으로 그려주고 게임 상황을 기록해줌
+<br/>
+### SnakeGame
+- 해당 애플리케이션 실행(GameFrame 생성)
+<br/>
 
 
 ## 게임 동작 원리 분석
